@@ -13,4 +13,7 @@ Instructions for running CHEM3216_LIBS_Class_Notebook_Summer_2024.ipynb in Googl
 → Follow the instructions embedded within the notebook.
 
 A video walkthrough for the Google Colab notebook is available below.
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=F19UQA3sVCE)
+[![LIBS Analyzer Walkthrough](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=F19UQA3sVCE)
+
+A prelaboratory introduction to the instrumentation used to collect LIBS data is available below.
+[![LIBS Instrumentation Prelab Video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=0pwOXegX4Fo)
